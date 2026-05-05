@@ -60,6 +60,7 @@ color: "#f5e6d3",
 boxShadow: "0 4px 20px rgba(0,0,0,0.3)",
 }}
 >
+    <h1 className="">NOVATECH SOLUTIONS</h1>
 <h2 style={{ textAlign: "center", marginBottom: "20px" }}>
 My Task List
 </h2>
